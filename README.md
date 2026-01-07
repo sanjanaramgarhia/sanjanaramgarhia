@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Python Developer focused on AI, LLMs & Generative AI systems.                                          
+🚀 Python Developer focused on AI,ML, LLMs & Generative AI systems.                                          
 ⚙️ Build scalable backend applications using FastAPI & Django.                                   
 🤖 Hands-on experience with LLMs, RAG pipelines & vector databases.                                                                 
 📚 Transform unstructured data & documents into intelligent AI solutions.                                               
