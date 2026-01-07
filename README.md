@@ -1,5 +1,19 @@
 # 💫 About Me:
-I am currently doing Internship at Alpha IT Consultants Mohali<br>I am a Python AI/ML Developer
+Hi, I’m Sanjana — a Python Developer with a strong interest in AI, LLMs, and Generative AI systems 🤖✨
+
+I enjoy building real-world backend applications using FastAPI & Django, and I have hands-on experience with LLMs, RAG pipelines, and vector databases. I love turning raw data and documents into intelligent AI-powered solutions 🚀
+
+I’m a quick learner who enjoys exploring new GenAI frameworks, debugging complex issues, and improving systems step by step 🧠⚙️
+
+Currently focused on:
+
+🔹 LLM-powered applications
+
+🔹 Retrieval-Augmented Generation (RAG)
+
+🔹 AI Agents & tool-based workflows
+
+🔹 Scalable backend APIs
 
 
 ## 🌐 Socials:
