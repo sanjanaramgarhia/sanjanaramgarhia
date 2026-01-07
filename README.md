@@ -1,19 +1,17 @@
 # 💫 About Me:
-Hi, I’m Sanjana — a Python Developer with a strong interest in AI, LLMs, and Generative AI systems 🤖✨
+🚀 Python Developer focused on AI, LLMs & Generative AI systems
 
-I enjoy building real-world backend applications using FastAPI & Django, and I have hands-on experience with LLMs, RAG pipelines, and vector databases. I love turning raw data and documents into intelligent AI-powered solutions 🚀
+⚙️ Build scalable backend applications using FastAPI & Django
 
-I’m a quick learner who enjoys exploring new GenAI frameworks, debugging complex issues, and improving systems step by step 🧠⚙️
+🤖 Hands-on experience with LLMs, RAG pipelines & vector databases
 
-Currently focused on:
+📚 Transform unstructured data & documents into intelligent AI solutions
 
-🔹 LLM-powered applications
+🧠 Strong problem-solving mindset with a passion for debugging & optimization
 
-🔹 Retrieval-Augmented Generation (RAG)
+⚡ Quick learner, comfortable with modern GenAI frameworks & tools
 
-🔹 AI Agents & tool-based workflows
-
-🔹 Scalable backend APIs
+🔧 Experience with AI agents, tool-based workflows & API integrations
 
 
 ## 🌐 Socials:
