@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hey, I am Sanjana
 Fueled by curiosity and a constant urge to build, I spend most of my time exploring Python, Django, APIs, and data-driven applications. I enjoy solving problems, understanding systems from the ground up, and transforming complex ideas into clean, functional software.<br><br>Currently, I'm focused on:<br><br>🐍 Python Development<br>🌐 Django & Django REST Framework<br>🗄 SQL & Database Design<br>📊 Data Analytics (Excel, SQL, Power BI)<br>🤖 AI & Machine Learning Fundamentals<br>🔧 Backend API Development
 
 # 💻 Tech Stack:
