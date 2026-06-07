@@ -1,5 +1,7 @@
 # 💫 About Me:
-Python Developer | Django Developer | AI ML Developer<br><br>I'm a Computer Science graduate passionate about building backend applications with Python and Django.<br><br>Currently, I'm focused on:<br><br>🐍 Python Development<br>🌐 Django & Django REST Framework<br>🗄 SQL & Database Design<br>📊 Data Analytics (Excel, SQL, Power BI)<br>🤖 AI & Machine Learning Fundamentals<br>🔧 Backend API Development
+Python Developer | Django Developer | AI ML Developer<br><br>Hey, I'm Sanjana 👋
+
+Fueled by curiosity and a constant urge to build, I spend most of my time exploring Python, Django, APIs, and data-driven applications. I enjoy solving problems, understanding systems from the ground up, and transforming complex ideas into clean, functional software.<br><br>Currently, I'm focused on:<br><br>🐍 Python Development<br>🌐 Django & Django REST Framework<br>🗄 SQL & Database Design<br>📊 Data Analytics (Excel, SQL, Power BI)<br>🤖 AI & Machine Learning Fundamentals<br>🔧 Backend API Development
 
 
 ## 🌐 Socials:
